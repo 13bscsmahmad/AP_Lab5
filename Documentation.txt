@@ -1,0 +1,10 @@
+Documentation
+=============
+
+This lab is intended to store and retrieve city information in mySQL. It uses Java, jdbc, and file-input.
+
+The initialization() function is to make a connection with mySQL.
+The normalStatement() function is to make a statement, and execute insert statements.
+
+Github link: https://github.com/13bscsmahmad/AP_Lab5.git
+
